@@ -16,16 +16,16 @@ export const colorTokens = {
       1000: "#000000",
     },
     primary: {
-      50: "#E6FBFF",
-      100: "#CCF7FE",
-      200: "#99EEFD",
-      300: "#66E6FC",
-      400: "#33DDFB",
-      500: "#00D5FA",
-      600: "#00A0BC",
-      700: "#006B7D",
-      800: "#00353F",
-      900: "#001519",
+      50: "#FFE0D5",
+      100: "#FFC1AB",
+      200: "#FF9F7D",
+      300: "#FF7D4F",
+      400: "#FF642D",
+      500: "#FA4100",
+      600: "#D23700",
+      700: "#A82C00",
+      800: "#862300",
+      900: "#5C1800",
     },
   };
   
@@ -47,6 +47,7 @@ export const colorTokens = {
                 main: colorTokens.grey[200],
                 mediumMain: colorTokens.grey[300],
                 medium: colorTokens.grey[400],
+                mediumLight: colorTokens.grey[500],
                 light: colorTokens.grey[700],
               },
               background: {
@@ -66,6 +67,7 @@ export const colorTokens = {
                 main: colorTokens.grey[500],
                 mediumMain: colorTokens.grey[400],
                 medium: colorTokens.grey[300],
+                mediumLight: colorTokens.grey[200],
                 light: colorTokens.grey[50],
               },
               background: {
@@ -74,31 +76,34 @@ export const colorTokens = {
               },
             }),
       },
+      title: {
+        fontFamily: ["Shrikhand", "sans-serif"].join(","),
+      },
       typography: {
-        fontFamily: ["Rubik", "sans-serif"].join(","),
+        fontFamily: ["IBM Plex Sans KR", "sans-serif"].join(","),
         fontSize: 12,
         h1: {
-          fontFamily: ["Rubik", "sans-serif"].join(","),
+          fontFamily: ["IBM Plex Sans KR", "sans-serif"].join(","),
           fontSize: 40,
         },
         h2: {
-          fontFamily: ["Rubik", "sans-serif"].join(","),
+          fontFamily: ["IBM Plex Sans KR", "sans-serif"].join(","),
           fontSize: 32,
         },
         h3: {
-          fontFamily: ["Rubik", "sans-serif"].join(","),
+          fontFamily: ["IBM Plex Sans KR", "sans-serif"].join(","),
           fontSize: 24,
         },
         h4: {
-          fontFamily: ["Rubik", "sans-serif"].join(","),
+          fontFamily: ["IBM Plex Sans KR", "sans-serif"].join(","),
           fontSize: 20,
         },
         h5: {
-          fontFamily: ["Rubik", "sans-serif"].join(","),
+          fontFamily: ["IBM Plex Sans KR", "sans-serif"].join(","),
           fontSize: 16,
         },
         h6: {
-          fontFamily: ["Rubik", "sans-serif"].join(","),
+          fontFamily: ["IBM Plex Sans KR", "sans-serif"].join(","),
           fontSize: 14,
         },
       },

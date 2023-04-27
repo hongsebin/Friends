@@ -155,6 +155,8 @@ import {
               color: palette.background.alt,
               backgroundColor: palette.primary.main,
               borderRadius: "3rem",
+              "&:hover": { 
+                color: mediumMain }
             }}
           >
             POST

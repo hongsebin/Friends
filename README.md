@@ -44,10 +44,15 @@
 <br><br>
 
 ### 🔎 구현 동작
+- 로그인
 ![Login](./img/login.jpg)
+- 회원가입
 ![Register](./img/register.jpg)
+- 메인 페이지
 ![Main](./img/main.jpg)
+- 다른 유저 프로필 보기
 ![OtherUser](./img/other_user.jpg)
+- 다크모드
 ![Dark](./img/dark.jpg)
 
 <br>

@@ -49,7 +49,9 @@ import {
     } = user;
   
     return (
-      <WidgetWrapper>
+      <WidgetWrapper
+      sx={{ boxShadow: '0em 0rem 1rem #00000010', }}>
+        
         {/* FIRST ROW */}
         <FlexBetween
           gap="0.5rem"

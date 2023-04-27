@@ -48,7 +48,8 @@ import {
     };
   
     return (
-      <WidgetWrapper m="2rem 0">
+      <WidgetWrapper m="2rem 0"
+      sx={{ boxShadow: '0em 0rem 1rem #00000010', }}>
         <Friend
           friendId={postUserId}
           name={name}

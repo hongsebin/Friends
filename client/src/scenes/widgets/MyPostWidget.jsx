@@ -57,7 +57,8 @@ import {
     };
   
     return (
-      <WidgetWrapper>
+      <WidgetWrapper 
+      sx={{ boxShadow: '0em 0rem 1rem #00000010', }}>
         <FlexBetween gap="1.5rem">
           <UserImage image={picturePath} />
           <InputBase

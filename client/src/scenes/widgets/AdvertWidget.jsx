@@ -11,7 +11,8 @@ const AdvertWidget = () => {
   const mediumLight = palette.neutral.mediumLight;
 
   return (
-    <WidgetWrapper>
+    <WidgetWrapper
+    sx={{ boxShadow: '0em 0rem 1rem #00000010', }}>
       <FlexBetween>
         <Typography color={dark} variant="h5" fontWeight="500">
           Sponsored

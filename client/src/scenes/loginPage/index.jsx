@@ -26,6 +26,7 @@ const LoginPage = () => {
         m="2rem auto"
         borderRadius="1.5rem"
         backgroundColor={theme.palette.background.alt}
+        boxShadow= '0em 0rem 1rem #00000010'
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
           Be my Friends!

@@ -96,7 +96,7 @@ import {
                   >
                     <input {...getInputProps()} />
                     {!image ? (
-                      <p>Add Image Here</p>
+                      <p>첨부할 이미지를 선택하세요</p>
                     ) : (
                       <FlexBetween>
                         <Typography>{image.name}</Typography>
@@ -107,7 +107,7 @@ import {
                   {image && (
                     <IconButton
                       onClick={() => setImage(null)}
-                      sx={{ width: "15%" }}
+                      sx={{ marginLeft: "1rem"}}
                     >
                       <DeleteOutlined />
                     </IconButton>

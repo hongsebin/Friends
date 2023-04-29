@@ -190,7 +190,7 @@ const Form = () => {
                       <Box
                         {...getRootProps()}
                         border={`2px dashed ${palette.primary.main}`}
-                        p="0 1rem"
+                        p="1rem"
                         sx={{ "&:hover": { cursor: "pointer" } }}
                       >
                         <input {...getInputProps()} />

@@ -40,7 +40,7 @@
 
 - <div>VCS</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/github-purple?style=flat&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Github-purple?style=flat&logo=github&logoColor=black"/>
 <br><br>
 
 ### 🔎 구현 동작
@@ -60,7 +60,7 @@
 <br>
 
 ### 📽️ 시연 영상
-- https://www.youtube.com/
+- https://youtu.be/md53Az9ibuM
 
 <br>
 

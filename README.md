@@ -47,9 +47,9 @@
 - 인트로
 ![Login](./img/intro.png)
 - 로그인
-![Login](./img/login.jpg)
+![Login](./img/login.png)
 - 회원가입
-![Register](./img/register.jpg)
+![Register](./img/register.png)
 - 메인
 ![Main](./img/main.jpg)
 - 다른 유저 프로필 보기

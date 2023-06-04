@@ -45,7 +45,7 @@
 
 ### 🔎 구현 동작
 - 인트로
-![Login](./img/intro.png)
+![Intro](./img/intro.png)
 - 로그인
 ![Login](./img/login.png)
 - 회원가입
